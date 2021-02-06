@@ -3,8 +3,8 @@ import os
 from twilio.rest import Client
 
 #constants
-account_sid = "x"
-auth_token = "x"
+account_sid = 'x'
+auth_token = 'x'
 
 client = Client(account_sid, auth_token)
 
