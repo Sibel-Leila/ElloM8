@@ -1,7 +1,6 @@
 # ElloM8
 Presentation: https://www.youtube.com/watch?v=pGR8OqSHAXo&feature=youtu.be
 
-
 # Inspiration
 Our family and friends isolating during COVID19 have been our inspiration for this project. Humor is an essential coping tool for surviving tough times. We could all use a few moments in the day that feel lighter, and a well-timed pandemic joke might just take your mind off the apocalypse-adjacent state of the world and serve as a reminder that there’s always something, however small, to smile about.
 
@@ -26,6 +25,5 @@ Technology can really bring a smile to someone's face.
 The next step would be to provide the responses from the Google form to the application and call the user at a particular time provided by them in the form response. 'Ello M8 could also be further developed to send SMS to people with funny or inspiring quotes for the day and help set voice and SMS reminders for people who need to take medication on time and tell them a joke.
 
 # Background:
-We took part in https://impracticalhackers.devpost.com/?ref_content=default&amp;ref_feature=challenge&amp;ref_medium=discover
-And we created the project: 'Ello M8 - https://devpost.com/software/ello-m8
+We took part in https://impracticalhackers.devpost.com/?ref_content=default&amp;ref_feature=challenge&amp;ref_medium=discover and we created the project: 'Ello M8 - https://devpost.com/software/ello-m8
 
